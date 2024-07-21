@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: #d6148c;
+}
+
+.main {
+    padding: 20px;
+    border-radius: 8px;
+}
+
+input {
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#addButton{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #d614c9;
+}
+
+
+.completed {
+    text-decoration: line-through;
+}
+
